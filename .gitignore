@@ -1,0 +1,8 @@
+node_modules/
+.venv/
+out/
+dist/
+build/
+.remotion/
+*.log
+.DS_Store
