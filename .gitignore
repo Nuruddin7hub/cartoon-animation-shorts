@@ -4,5 +4,9 @@ out/
 dist/
 build/
 .remotion/
+.piper-voices/
 *.log
 .DS_Store
+
+__pycache__/
+*.pyc

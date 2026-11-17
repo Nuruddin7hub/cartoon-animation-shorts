@@ -1,0 +1,1238 @@
+{
+  "duration": 63.824,
+  "frames_30fps": 1915,
+  "beats": [
+    {
+      "id": "hook",
+      "start": 0.06,
+      "end": 5.552,
+      "text": "A 14-inch drill bit once drained an entire 1,125-acre lake in three hours."
+    },
+    {
+      "id": "setting",
+      "start": 5.712,
+      "end": 9.961,
+      "text": "On the surface, Lake Peigneur in Louisiana looked like a calm, three-foot-deep fishing pond."
+    },
+    {
+      "id": "hidden",
+      "start": 10.101,
+      "end": 16.893,
+      "text": "But directly underneath the mud sat a massive underground salt mine, 1,300 feet deep, with 55 miners working inside."
+    },
+    {
+      "id": "fail1",
+      "start": 17.053,
+      "end": 21.36,
+      "text": "On November 20, 1980, an oil rig on the lake drilled straight down."
+    },
+    {
+      "id": "fail2",
+      "start": 21.48,
+      "end": 24.998,
+      "text": "At 1,228 feet, the 14-inch bit got stuck."
+    },
+    {
+      "id": "fail3",
+      "start": 25.138,
+      "end": 29.955,
+      "text": "Two and a half hours later, the rig started to tilt. It had punched straight through the ceiling of the salt mine."
+    },
+    {
+      "id": "analogy",
+      "start": 30.135,
+      "end": 38.028,
+      "text": "Now, fresh water dissolves salt. So every gallon pouring through that tiny hole ate away the walls, turning a 14-inch puncture into a half-mile-wide whirlpool."
+    },
+    {
+      "id": "swallow",
+      "start": 38.168,
+      "end": 44.252,
+      "text": "It pulled the plug on the whole lake, swallowing the oil rig, 11 barges, a tugboat, and 65 acres of land."
+    },
+    {
+      "id": "climax",
+      "start": 44.412,
+      "end": 53.804,
+      "text": "The suction was so strong it reversed a 12-mile canal, pulling the Gulf of Mexico backward into a 164-foot waterfall, while 400-foot geysers blasted out of the mine shafts."
+    },
+    {
+      "id": "escape",
+      "start": 53.984,
+      "end": 59.405,
+      "text": "Somehow, every single person escaped. All 55 miners rode one elevator out just in time."
+    },
+    {
+      "id": "twist",
+      "start": 59.545,
+      "end": 63.574,
+      "text": "And days later, nine of the eleven sunken barges popped right back up like corks."
+    }
+  ],
+  "words": [
+    {
+      "word": "A",
+      "start": 0.06,
+      "end": 0.237,
+      "beat": "hook"
+    },
+    {
+      "word": "14-inch",
+      "start": 0.237,
+      "end": 0.857,
+      "beat": "hook"
+    },
+    {
+      "word": "drill",
+      "start": 0.857,
+      "end": 1.3,
+      "beat": "hook"
+    },
+    {
+      "word": "bit",
+      "start": 1.3,
+      "end": 1.566,
+      "beat": "hook"
+    },
+    {
+      "word": "once",
+      "start": 1.566,
+      "end": 1.92,
+      "beat": "hook"
+    },
+    {
+      "word": "drained",
+      "start": 1.92,
+      "end": 2.54,
+      "beat": "hook"
+    },
+    {
+      "word": "an",
+      "start": 2.54,
+      "end": 2.717,
+      "beat": "hook"
+    },
+    {
+      "word": "entire",
+      "start": 2.717,
+      "end": 3.249,
+      "beat": "hook"
+    },
+    {
+      "word": "1,125-acre",
+      "start": 3.249,
+      "end": 4.134,
+      "beat": "hook"
+    },
+    {
+      "word": "lake",
+      "start": 4.134,
+      "end": 4.489,
+      "beat": "hook"
+    },
+    {
+      "word": "in",
+      "start": 4.489,
+      "end": 4.666,
+      "beat": "hook"
+    },
+    {
+      "word": "three",
+      "start": 4.666,
+      "end": 5.109,
+      "beat": "hook"
+    },
+    {
+      "word": "hours.",
+      "start": 5.109,
+      "end": 5.552,
+      "beat": "hook"
+    },
+    {
+      "word": "On",
+      "start": 5.712,
+      "end": 5.822,
+      "beat": "setting"
+    },
+    {
+      "word": "the",
+      "start": 5.822,
+      "end": 5.987,
+      "beat": "setting"
+    },
+    {
+      "word": "surface,",
+      "start": 5.987,
+      "end": 6.374,
+      "beat": "setting"
+    },
+    {
+      "word": "Lake",
+      "start": 6.374,
+      "end": 6.594,
+      "beat": "setting"
+    },
+    {
+      "word": "Peigneur",
+      "start": 6.594,
+      "end": 7.036,
+      "beat": "setting"
+    },
+    {
+      "word": "in",
+      "start": 7.036,
+      "end": 7.146,
+      "beat": "setting"
+    },
+    {
+      "word": "Louisiana",
+      "start": 7.146,
+      "end": 7.643,
+      "beat": "setting"
+    },
+    {
+      "word": "looked",
+      "start": 7.643,
+      "end": 7.974,
+      "beat": "setting"
+    },
+    {
+      "word": "like",
+      "start": 7.974,
+      "end": 8.195,
+      "beat": "setting"
+    },
+    {
+      "word": "a",
+      "start": 8.195,
+      "end": 8.305,
+      "beat": "setting"
+    },
+    {
+      "word": "calm,",
+      "start": 8.305,
+      "end": 8.526,
+      "beat": "setting"
+    },
+    {
+      "word": "three-foot-deep",
+      "start": 8.526,
+      "end": 9.354,
+      "beat": "setting"
+    },
+    {
+      "word": "fishing",
+      "start": 9.354,
+      "end": 9.74,
+      "beat": "setting"
+    },
+    {
+      "word": "pond.",
+      "start": 9.74,
+      "end": 9.961,
+      "beat": "setting"
+    },
+    {
+      "word": "But",
+      "start": 10.101,
+      "end": 10.313,
+      "beat": "hidden"
+    },
+    {
+      "word": "directly",
+      "start": 10.313,
+      "end": 10.879,
+      "beat": "hidden"
+    },
+    {
+      "word": "underneath",
+      "start": 10.879,
+      "end": 11.587,
+      "beat": "hidden"
+    },
+    {
+      "word": "the",
+      "start": 11.587,
+      "end": 11.799,
+      "beat": "hidden"
+    },
+    {
+      "word": "mud",
+      "start": 11.799,
+      "end": 12.011,
+      "beat": "hidden"
+    },
+    {
+      "word": "sat",
+      "start": 12.011,
+      "end": 12.223,
+      "beat": "hidden"
+    },
+    {
+      "word": "a",
+      "start": 12.223,
+      "end": 12.365,
+      "beat": "hidden"
+    },
+    {
+      "word": "massive",
+      "start": 12.365,
+      "end": 12.86,
+      "beat": "hidden"
+    },
+    {
+      "word": "underground",
+      "start": 12.86,
+      "end": 13.638,
+      "beat": "hidden"
+    },
+    {
+      "word": "salt",
+      "start": 13.638,
+      "end": 13.921,
+      "beat": "hidden"
+    },
+    {
+      "word": "mine,",
+      "start": 13.921,
+      "end": 14.204,
+      "beat": "hidden"
+    },
+    {
+      "word": "1,300",
+      "start": 14.204,
+      "end": 14.558,
+      "beat": "hidden"
+    },
+    {
+      "word": "feet",
+      "start": 14.558,
+      "end": 14.841,
+      "beat": "hidden"
+    },
+    {
+      "word": "deep,",
+      "start": 14.841,
+      "end": 15.124,
+      "beat": "hidden"
+    },
+    {
+      "word": "with",
+      "start": 15.124,
+      "end": 15.407,
+      "beat": "hidden"
+    },
+    {
+      "word": "55",
+      "start": 15.407,
+      "end": 15.548,
+      "beat": "hidden"
+    },
+    {
+      "word": "miners",
+      "start": 15.548,
+      "end": 15.973,
+      "beat": "hidden"
+    },
+    {
+      "word": "working",
+      "start": 15.973,
+      "end": 16.468,
+      "beat": "hidden"
+    },
+    {
+      "word": "inside.",
+      "start": 16.468,
+      "end": 16.893,
+      "beat": "hidden"
+    },
+    {
+      "word": "On",
+      "start": 17.053,
+      "end": 17.218,
+      "beat": "fail1"
+    },
+    {
+      "word": "November",
+      "start": 17.218,
+      "end": 17.881,
+      "beat": "fail1"
+    },
+    {
+      "word": "20,",
+      "start": 17.881,
+      "end": 18.047,
+      "beat": "fail1"
+    },
+    {
+      "word": "1980,",
+      "start": 18.047,
+      "end": 18.378,
+      "beat": "fail1"
+    },
+    {
+      "word": "an",
+      "start": 18.378,
+      "end": 18.544,
+      "beat": "fail1"
+    },
+    {
+      "word": "oil",
+      "start": 18.544,
+      "end": 18.792,
+      "beat": "fail1"
+    },
+    {
+      "word": "rig",
+      "start": 18.792,
+      "end": 19.041,
+      "beat": "fail1"
+    },
+    {
+      "word": "on",
+      "start": 19.041,
+      "end": 19.206,
+      "beat": "fail1"
+    },
+    {
+      "word": "the",
+      "start": 19.206,
+      "end": 19.455,
+      "beat": "fail1"
+    },
+    {
+      "word": "lake",
+      "start": 19.455,
+      "end": 19.786,
+      "beat": "fail1"
+    },
+    {
+      "word": "drilled",
+      "start": 19.786,
+      "end": 20.366,
+      "beat": "fail1"
+    },
+    {
+      "word": "straight",
+      "start": 20.366,
+      "end": 21.029,
+      "beat": "fail1"
+    },
+    {
+      "word": "down.",
+      "start": 21.029,
+      "end": 21.36,
+      "beat": "fail1"
+    },
+    {
+      "word": "At",
+      "start": 21.48,
+      "end": 21.7,
+      "beat": "fail2"
+    },
+    {
+      "word": "1,228",
+      "start": 21.7,
+      "end": 22.25,
+      "beat": "fail2"
+    },
+    {
+      "word": "feet,",
+      "start": 22.25,
+      "end": 22.689,
+      "beat": "fail2"
+    },
+    {
+      "word": "the",
+      "start": 22.689,
+      "end": 23.019,
+      "beat": "fail2"
+    },
+    {
+      "word": "14-inch",
+      "start": 23.019,
+      "end": 23.789,
+      "beat": "fail2"
+    },
+    {
+      "word": "bit",
+      "start": 23.789,
+      "end": 24.118,
+      "beat": "fail2"
+    },
+    {
+      "word": "got",
+      "start": 24.118,
+      "end": 24.448,
+      "beat": "fail2"
+    },
+    {
+      "word": "stuck.",
+      "start": 24.448,
+      "end": 24.998,
+      "beat": "fail2"
+    },
+    {
+      "word": "Two",
+      "start": 25.138,
+      "end": 25.297,
+      "beat": "fail3"
+    },
+    {
+      "word": "and",
+      "start": 25.297,
+      "end": 25.456,
+      "beat": "fail3"
+    },
+    {
+      "word": "a",
+      "start": 25.456,
+      "end": 25.561,
+      "beat": "fail3"
+    },
+    {
+      "word": "half",
+      "start": 25.561,
+      "end": 25.773,
+      "beat": "fail3"
+    },
+    {
+      "word": "hours",
+      "start": 25.773,
+      "end": 26.038,
+      "beat": "fail3"
+    },
+    {
+      "word": "later,",
+      "start": 26.038,
+      "end": 26.302,
+      "beat": "fail3"
+    },
+    {
+      "word": "the",
+      "start": 26.302,
+      "end": 26.461,
+      "beat": "fail3"
+    },
+    {
+      "word": "rig",
+      "start": 26.461,
+      "end": 26.62,
+      "beat": "fail3"
+    },
+    {
+      "word": "started",
+      "start": 26.62,
+      "end": 26.991,
+      "beat": "fail3"
+    },
+    {
+      "word": "to",
+      "start": 26.991,
+      "end": 27.096,
+      "beat": "fail3"
+    },
+    {
+      "word": "tilt.",
+      "start": 27.096,
+      "end": 27.308,
+      "beat": "fail3"
+    },
+    {
+      "word": "It",
+      "start": 27.308,
+      "end": 27.414,
+      "beat": "fail3"
+    },
+    {
+      "word": "had",
+      "start": 27.414,
+      "end": 27.573,
+      "beat": "fail3"
+    },
+    {
+      "word": "punched",
+      "start": 27.573,
+      "end": 27.943,
+      "beat": "fail3"
+    },
+    {
+      "word": "straight",
+      "start": 27.943,
+      "end": 28.367,
+      "beat": "fail3"
+    },
+    {
+      "word": "through",
+      "start": 28.367,
+      "end": 28.737,
+      "beat": "fail3"
+    },
+    {
+      "word": "the",
+      "start": 28.737,
+      "end": 28.896,
+      "beat": "fail3"
+    },
+    {
+      "word": "ceiling",
+      "start": 28.896,
+      "end": 29.267,
+      "beat": "fail3"
+    },
+    {
+      "word": "of",
+      "start": 29.267,
+      "end": 29.373,
+      "beat": "fail3"
+    },
+    {
+      "word": "the",
+      "start": 29.373,
+      "end": 29.531,
+      "beat": "fail3"
+    },
+    {
+      "word": "salt",
+      "start": 29.531,
+      "end": 29.743,
+      "beat": "fail3"
+    },
+    {
+      "word": "mine.",
+      "start": 29.743,
+      "end": 29.955,
+      "beat": "fail3"
+    },
+    {
+      "word": "Now,",
+      "start": 30.135,
+      "end": 30.313,
+      "beat": "analogy"
+    },
+    {
+      "word": "fresh",
+      "start": 30.313,
+      "end": 30.61,
+      "beat": "analogy"
+    },
+    {
+      "word": "water",
+      "start": 30.61,
+      "end": 30.906,
+      "beat": "analogy"
+    },
+    {
+      "word": "dissolves",
+      "start": 30.906,
+      "end": 31.44,
+      "beat": "analogy"
+    },
+    {
+      "word": "salt.",
+      "start": 31.44,
+      "end": 31.678,
+      "beat": "analogy"
+    },
+    {
+      "word": "So",
+      "start": 31.678,
+      "end": 31.797,
+      "beat": "analogy"
+    },
+    {
+      "word": "every",
+      "start": 31.797,
+      "end": 32.093,
+      "beat": "analogy"
+    },
+    {
+      "word": "gallon",
+      "start": 32.093,
+      "end": 32.449,
+      "beat": "analogy"
+    },
+    {
+      "word": "pouring",
+      "start": 32.449,
+      "end": 32.865,
+      "beat": "analogy"
+    },
+    {
+      "word": "through",
+      "start": 32.865,
+      "end": 33.28,
+      "beat": "analogy"
+    },
+    {
+      "word": "that",
+      "start": 33.28,
+      "end": 33.518,
+      "beat": "analogy"
+    },
+    {
+      "word": "tiny",
+      "start": 33.518,
+      "end": 33.755,
+      "beat": "analogy"
+    },
+    {
+      "word": "hole",
+      "start": 33.755,
+      "end": 33.993,
+      "beat": "analogy"
+    },
+    {
+      "word": "ate",
+      "start": 33.993,
+      "end": 34.171,
+      "beat": "analogy"
+    },
+    {
+      "word": "away",
+      "start": 34.171,
+      "end": 34.408,
+      "beat": "analogy"
+    },
+    {
+      "word": "the",
+      "start": 34.408,
+      "end": 34.586,
+      "beat": "analogy"
+    },
+    {
+      "word": "walls,",
+      "start": 34.586,
+      "end": 34.883,
+      "beat": "analogy"
+    },
+    {
+      "word": "turning",
+      "start": 34.883,
+      "end": 35.298,
+      "beat": "analogy"
+    },
+    {
+      "word": "a",
+      "start": 35.298,
+      "end": 35.417,
+      "beat": "analogy"
+    },
+    {
+      "word": "14-inch",
+      "start": 35.417,
+      "end": 35.832,
+      "beat": "analogy"
+    },
+    {
+      "word": "puncture",
+      "start": 35.832,
+      "end": 36.307,
+      "beat": "analogy"
+    },
+    {
+      "word": "into",
+      "start": 36.307,
+      "end": 36.545,
+      "beat": "analogy"
+    },
+    {
+      "word": "a",
+      "start": 36.545,
+      "end": 36.663,
+      "beat": "analogy"
+    },
+    {
+      "word": "half-mile-wide",
+      "start": 36.663,
+      "end": 37.494,
+      "beat": "analogy"
+    },
+    {
+      "word": "whirlpool.",
+      "start": 37.494,
+      "end": 38.028,
+      "beat": "analogy"
+    },
+    {
+      "word": "It",
+      "start": 38.168,
+      "end": 38.319,
+      "beat": "swallow"
+    },
+    {
+      "word": "pulled",
+      "start": 38.319,
+      "end": 38.769,
+      "beat": "swallow"
+    },
+    {
+      "word": "the",
+      "start": 38.769,
+      "end": 38.994,
+      "beat": "swallow"
+    },
+    {
+      "word": "plug",
+      "start": 38.994,
+      "end": 39.295,
+      "beat": "swallow"
+    },
+    {
+      "word": "on",
+      "start": 39.295,
+      "end": 39.445,
+      "beat": "swallow"
+    },
+    {
+      "word": "the",
+      "start": 39.445,
+      "end": 39.67,
+      "beat": "swallow"
+    },
+    {
+      "word": "whole",
+      "start": 39.67,
+      "end": 40.046,
+      "beat": "swallow"
+    },
+    {
+      "word": "lake,",
+      "start": 40.046,
+      "end": 40.346,
+      "beat": "swallow"
+    },
+    {
+      "word": "swallowing",
+      "start": 40.346,
+      "end": 41.097,
+      "beat": "swallow"
+    },
+    {
+      "word": "the",
+      "start": 41.097,
+      "end": 41.323,
+      "beat": "swallow"
+    },
+    {
+      "word": "oil",
+      "start": 41.323,
+      "end": 41.548,
+      "beat": "swallow"
+    },
+    {
+      "word": "rig,",
+      "start": 41.548,
+      "end": 41.773,
+      "beat": "swallow"
+    },
+    {
+      "word": "11",
+      "start": 41.773,
+      "end": 41.924,
+      "beat": "swallow"
+    },
+    {
+      "word": "barges,",
+      "start": 41.924,
+      "end": 42.374,
+      "beat": "swallow"
+    },
+    {
+      "word": "a",
+      "start": 42.374,
+      "end": 42.525,
+      "beat": "swallow"
+    },
+    {
+      "word": "tugboat,",
+      "start": 42.525,
+      "end": 43.05,
+      "beat": "swallow"
+    },
+    {
+      "word": "and",
+      "start": 43.05,
+      "end": 43.276,
+      "beat": "swallow"
+    },
+    {
+      "word": "65",
+      "start": 43.276,
+      "end": 43.426,
+      "beat": "swallow"
+    },
+    {
+      "word": "acres",
+      "start": 43.426,
+      "end": 43.801,
+      "beat": "swallow"
+    },
+    {
+      "word": "of",
+      "start": 43.801,
+      "end": 43.952,
+      "beat": "swallow"
+    },
+    {
+      "word": "land.",
+      "start": 43.952,
+      "end": 44.252,
+      "beat": "swallow"
+    },
+    {
+      "word": "The",
+      "start": 44.412,
+      "end": 44.609,
+      "beat": "climax"
+    },
+    {
+      "word": "suction",
+      "start": 44.609,
+      "end": 45.069,
+      "beat": "climax"
+    },
+    {
+      "word": "was",
+      "start": 45.069,
+      "end": 45.266,
+      "beat": "climax"
+    },
+    {
+      "word": "so",
+      "start": 45.266,
+      "end": 45.397,
+      "beat": "climax"
+    },
+    {
+      "word": "strong",
+      "start": 45.397,
+      "end": 45.791,
+      "beat": "climax"
+    },
+    {
+      "word": "it",
+      "start": 45.791,
+      "end": 45.923,
+      "beat": "climax"
+    },
+    {
+      "word": "reversed",
+      "start": 45.923,
+      "end": 46.448,
+      "beat": "climax"
+    },
+    {
+      "word": "a",
+      "start": 46.448,
+      "end": 46.579,
+      "beat": "climax"
+    },
+    {
+      "word": "12-mile",
+      "start": 46.579,
+      "end": 47.039,
+      "beat": "climax"
+    },
+    {
+      "word": "canal,",
+      "start": 47.039,
+      "end": 47.368,
+      "beat": "climax"
+    },
+    {
+      "word": "pulling",
+      "start": 47.368,
+      "end": 47.827,
+      "beat": "climax"
+    },
+    {
+      "word": "the",
+      "start": 47.827,
+      "end": 48.024,
+      "beat": "climax"
+    },
+    {
+      "word": "Gulf",
+      "start": 48.024,
+      "end": 48.287,
+      "beat": "climax"
+    },
+    {
+      "word": "of",
+      "start": 48.287,
+      "end": 48.419,
+      "beat": "climax"
+    },
+    {
+      "word": "Mexico",
+      "start": 48.419,
+      "end": 48.813,
+      "beat": "climax"
+    },
+    {
+      "word": "backward",
+      "start": 48.813,
+      "end": 49.338,
+      "beat": "climax"
+    },
+    {
+      "word": "into",
+      "start": 49.338,
+      "end": 49.601,
+      "beat": "climax"
+    },
+    {
+      "word": "a",
+      "start": 49.601,
+      "end": 49.732,
+      "beat": "climax"
+    },
+    {
+      "word": "164-foot",
+      "start": 49.732,
+      "end": 50.258,
+      "beat": "climax"
+    },
+    {
+      "word": "waterfall,",
+      "start": 50.258,
+      "end": 50.849,
+      "beat": "climax"
+    },
+    {
+      "word": "while",
+      "start": 50.849,
+      "end": 51.177,
+      "beat": "climax"
+    },
+    {
+      "word": "400-foot",
+      "start": 51.177,
+      "end": 51.703,
+      "beat": "climax"
+    },
+    {
+      "word": "geysers",
+      "start": 51.703,
+      "end": 52.162,
+      "beat": "climax"
+    },
+    {
+      "word": "blasted",
+      "start": 52.162,
+      "end": 52.622,
+      "beat": "climax"
+    },
+    {
+      "word": "out",
+      "start": 52.622,
+      "end": 52.819,
+      "beat": "climax"
+    },
+    {
+      "word": "of",
+      "start": 52.819,
+      "end": 52.951,
+      "beat": "climax"
+    },
+    {
+      "word": "the",
+      "start": 52.951,
+      "end": 53.148,
+      "beat": "climax"
+    },
+    {
+      "word": "mine",
+      "start": 53.148,
+      "end": 53.41,
+      "beat": "climax"
+    },
+    {
+      "word": "shafts.",
+      "start": 53.41,
+      "end": 53.804,
+      "beat": "climax"
+    },
+    {
+      "word": "Somehow,",
+      "start": 53.984,
+      "end": 54.526,
+      "beat": "escape"
+    },
+    {
+      "word": "every",
+      "start": 54.526,
+      "end": 54.914,
+      "beat": "escape"
+    },
+    {
+      "word": "single",
+      "start": 54.914,
+      "end": 55.378,
+      "beat": "escape"
+    },
+    {
+      "word": "person",
+      "start": 55.378,
+      "end": 55.843,
+      "beat": "escape"
+    },
+    {
+      "word": "escaped.",
+      "start": 55.843,
+      "end": 56.385,
+      "beat": "escape"
+    },
+    {
+      "word": "All",
+      "start": 56.385,
+      "end": 56.617,
+      "beat": "escape"
+    },
+    {
+      "word": "55",
+      "start": 56.617,
+      "end": 56.772,
+      "beat": "escape"
+    },
+    {
+      "word": "miners",
+      "start": 56.772,
+      "end": 57.237,
+      "beat": "escape"
+    },
+    {
+      "word": "rode",
+      "start": 57.237,
+      "end": 57.547,
+      "beat": "escape"
+    },
+    {
+      "word": "one",
+      "start": 57.547,
+      "end": 57.779,
+      "beat": "escape"
+    },
+    {
+      "word": "elevator",
+      "start": 57.779,
+      "end": 58.398,
+      "beat": "escape"
+    },
+    {
+      "word": "out",
+      "start": 58.398,
+      "end": 58.631,
+      "beat": "escape"
+    },
+    {
+      "word": "just",
+      "start": 58.631,
+      "end": 58.94,
+      "beat": "escape"
+    },
+    {
+      "word": "in",
+      "start": 58.94,
+      "end": 59.095,
+      "beat": "escape"
+    },
+    {
+      "word": "time.",
+      "start": 59.095,
+      "end": 59.405,
+      "beat": "escape"
+    },
+    {
+      "word": "And",
+      "start": 59.545,
+      "end": 59.731,
+      "beat": "twist"
+    },
+    {
+      "word": "days",
+      "start": 59.731,
+      "end": 59.979,
+      "beat": "twist"
+    },
+    {
+      "word": "later,",
+      "start": 59.979,
+      "end": 60.289,
+      "beat": "twist"
+    },
+    {
+      "word": "nine",
+      "start": 60.289,
+      "end": 60.537,
+      "beat": "twist"
+    },
+    {
+      "word": "of",
+      "start": 60.537,
+      "end": 60.661,
+      "beat": "twist"
+    },
+    {
+      "word": "the",
+      "start": 60.661,
+      "end": 60.847,
+      "beat": "twist"
+    },
+    {
+      "word": "eleven",
+      "start": 60.847,
+      "end": 61.218,
+      "beat": "twist"
+    },
+    {
+      "word": "sunken",
+      "start": 61.218,
+      "end": 61.59,
+      "beat": "twist"
+    },
+    {
+      "word": "barges",
+      "start": 61.59,
+      "end": 61.962,
+      "beat": "twist"
+    },
+    {
+      "word": "popped",
+      "start": 61.962,
+      "end": 62.334,
+      "beat": "twist"
+    },
+    {
+      "word": "right",
+      "start": 62.334,
+      "end": 62.644,
+      "beat": "twist"
+    },
+    {
+      "word": "back",
+      "start": 62.644,
+      "end": 62.892,
+      "beat": "twist"
+    },
+    {
+      "word": "up",
+      "start": 62.892,
+      "end": 63.016,
+      "beat": "twist"
+    },
+    {
+      "word": "like",
+      "start": 63.016,
+      "end": 63.264,
+      "beat": "twist"
+    },
+    {
+      "word": "corks.",
+      "start": 63.264,
+      "end": 63.574,
+      "beat": "twist"
+    }
+  ]
+}
